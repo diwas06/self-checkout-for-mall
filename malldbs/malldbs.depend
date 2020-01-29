@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1532496444 source:e:\malldbs\main.cpp
+	<iostream>
+	"functions.h"
+
+1532500162 e:\malldbs\functions.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+
+1532492844 source:e:\code\malldbs\main.cpp
+	<iostream>
+	"functions.h"
+
+1535779766 e:\code\malldbs\functions.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+
+1532492844 source:e:\code\backup\deeper backup - copy\05_10_18mall\malldbs\main.cpp
+	<iostream>
+	"functions.h"
+
+1540832453 e:\code\backup\deeper backup - copy\05_10_18mall\malldbs\functions.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+
+1532492844 source:e:\code\backup\30_10_18mall deppercpy-cpy\deeper backup - copy\05_10_18mall\malldbs\main.cpp
+	<iostream>
+	"functions.h"
+
+1540919454 e:\code\backup\30_10_18mall deppercpy-cpy\deeper backup - copy\05_10_18mall\malldbs\functions.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+
+1532492844 source:e:\code\backup\mall_tested_30_10\malldbs\main.cpp
+	<iostream>
+	"functions.h"
+
+1540919454 e:\code\backup\mall_tested_30_10\malldbs\functions.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+
+1541245612 source:e:\code\backup\current\mall_tested_30_10\malldbs\main.cpp
+	<iostream>
+	"functions.h"
+
+1542285299 e:\code\backup\current\mall_tested_30_10\malldbs\functions.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
